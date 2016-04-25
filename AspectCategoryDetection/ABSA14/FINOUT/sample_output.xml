@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentence>
+ <text>
+  The food is uniformly exceptional, with a very capable kitchen which will proudly whip up whatever you feel like eating, whether it's on the menu or not.
+ </text>
+ <aspectCategories>
+  <aspectCategory category="food"/>
+  <aspectCategory category="ambience"/>
+  <aspectCategory category="price"/>
+ </aspectCategories>
+</sentence>
